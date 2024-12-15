@@ -6,10 +6,11 @@ Hi, I'm <a href="https://github.com/Nadoedatel/" target="_blank">Nikitos</a>
 <p align="center">
   <img src="https://cs9.pikabu.ru/post_img/2016/11/26/9/1480175950177720134.gif">
 </p>
-<div style="display: flex; justify-content: flex-end; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </div>
+
 
 
 <!--

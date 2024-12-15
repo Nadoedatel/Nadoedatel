@@ -10,7 +10,12 @@ Hi, I'm <a href="https://github.com/Nadoedatel/" target="_blank">Nikitos</a>
 </div>
 
 ##
-<img src="https://cs9.pikabu.ru/post_img/2016/11/26/9/1480175950177720134.gif" height="32"/>
+
+<div style="width: 100vw; height: 100vh; display: flex; justify-content: center; align-items: center; overflow: hidden;">
+  <img src="https://cs9.pikabu.ru/post_img/2016/11/26/9/1480175950177720134.gif" 
+       alt="Background Gif" 
+       style="width: 100%; height: 100%; object-fit: cover;" />
+</div>
 
 
 <!--

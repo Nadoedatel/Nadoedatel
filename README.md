@@ -7,7 +7,7 @@ Hi, I'm <a href="https://github.com/Nadoedatel/" target="_blank">Nikitos</a>
   <img src="https://cs9.pikabu.ru/post_img/2016/11/26/9/1480175950177720134.gif">
 </p>
 <div style="display: flex; justify-content: flex-end; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compactt" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </div>
 

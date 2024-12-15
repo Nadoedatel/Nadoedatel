@@ -12,9 +12,7 @@ Hi, I'm <a href="https://github.com/Nadoedatel/" target="_blank">Nikitos</a>
 ##
 
 <p style="width: 100vw; height: 100vh; display: flex; justify-content: center; align-items: center; overflow: hidden; align="center">
-  <img src="https://cs9.pikabu.ru/post_img/2016/11/26/9/1480175950177720134.gif" 
-       alt="Background Gif" 
-       style="width: 100%; height: 100%; object-fit: cover;" />
+  <img src="https://cs9.pikabu.ru/post_img/2016/11/26/9/1480175950177720134.gif">
 </p>
 
 

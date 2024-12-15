@@ -8,7 +8,7 @@ Hi, I'm <a href="https://github.com/Nadoedatel/" target="_blank">Nikitos</a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </div>
-<img src="[https://i.gifer.com/1Pw9.gif](https://cs9.pikabu.ru/post_img/2016/11/26/9/1480175950177720134.gif)" height="32"/>
+<img src="https://cs9.pikabu.ru/post_img/2016/11/26/9/1480175950177720134.gif" height="32"/>
 
 
 <!--

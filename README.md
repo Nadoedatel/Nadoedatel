@@ -1,12 +1,11 @@
 <h1 align="center">
   <img src="https://i.gifer.com/1Pw9.gif" height="32"/>
-  Hi, I'm <a href="https://github.com/Nadoedatel/" target="_blank">Nikitos</a> 
+  Hi, I'm <a href="https://github.com/Nadoedatel/" target="_blank">Nikitos</a>
+</h1>
+---
+<h1 align="center">
   <img src="https://64.media.tumblr.com/74cc9b72284961192d126d5254d27bbf/tumblr_mpz1dj3rkJ1rnqolfo1_500.gif" height="32"/>
 </h1>
-
-<p align="center">
-  <img src="https://cs9.pikabu.ru/post_img/2016/11/26/9/1480175950177720134.gif">
-</p>
 
 ---
 
@@ -33,6 +32,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dbeaver/dbeaver-original.svg" title="dbeaver" alt="dbeaver" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -44,3 +44,9 @@
   <a href= "https://t.me/nnnadoe"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram"/></a>
   <a href= "nikitavorntsov@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40" height="40" alt="gmail"/></a>
 </div>
+
+---
+
+<p align="center">
+  <img src="https://cs9.pikabu.ru/post_img/2016/11/26/9/1480175950177720134.gif">
+</p>

@@ -19,7 +19,6 @@
   <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles Proxy"  alt="Charles Proxy" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;

@@ -4,8 +4,6 @@
   <img src="https://i.pinimg.com/736x/ac/20/75/ac207587b88a3bd211738148821c740f.jpg" height="100"/>
 </h1>
 
----
-
 # Skilss and Tools
 ## Skills
 ### Familiar

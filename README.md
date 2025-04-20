@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.pinimg.com/736x/10/95/52/109552189bce23fb50744351cc076b2d.jpg" height="32"/>
+  <img src="https://i.pinimg.com/736x/bc/0e/c6/bc0ec629c025804ca899f56b5f1ab1ba.jpg" height="32"/>
   Hi, I'm <a href="https://github.com/Nadoedatel/" target="_blank">Nikitos</a>
   <img src="https://64.media.tumblr.com/74cc9b72284961192d126d5254d27bbf/tumblr_mpz1dj3rkJ1rnqolfo1_500.gif" height="32"/>
 </h1>

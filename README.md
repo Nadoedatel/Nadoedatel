@@ -4,9 +4,7 @@
   <img src="https://i.pinimg.com/736x/ac/20/75/ac207587b88a3bd211738148821c740f.jpg" height="100"/>
 </h1>
 
-<p align="center">
-  <img src="https://cs9.pikabu.ru/post_img/2016/11/26/9/1480175950177720134.gif">
-</p>
+<img src="https://cs9.pikabu.ru/post_img/2016/11/26/9/1480175950177720134.gif">
 
 ---
 

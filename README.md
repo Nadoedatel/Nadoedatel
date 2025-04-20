@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://i.pinimg.com/736x/d9/ad/d6/d9add6b3d03470e17f5dc00db7f4e377.jpg" height="32"/>
+  <img src="https://i.pinimg.com/736x/d9/ad/d6/d9add6b3d03470e17f5dc00db7f4e377.jpg" height="100"/>
   Hi, I'm <a href="https://github.com/Nadoedatel/" target="_blank">Nikitos</a>
-  <img src="https://64.media.tumblr.com/74cc9b72284961192d126d5254d27bbf/tumblr_mpz1dj3rkJ1rnqolfo1_500.gif" height="32"/>
+  <img src="https://i.pinimg.com/736x/ac/20/75/ac207587b88a3bd211738148821c740f.jpg" height="100"/>
 </h1>
 
 <p align="center">

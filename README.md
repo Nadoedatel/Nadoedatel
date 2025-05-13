@@ -67,4 +67,5 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://www.codewars.com/users/Nadoedatel/badges/large" alt="CodeWars"
 </div>

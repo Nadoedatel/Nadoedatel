@@ -1,7 +1,5 @@
 <h1 align="center">
-  <img src="https://i.pinimg.com/736x/d9/ad/d6/d9add6b3d03470e17f5dc00db7f4e377.jpg" height="100"/>
-  Hi, I'm <a href="https://github.com/Nadoedatel/" target="_blank">Nikitos</a>
-  <img src="https://i.pinimg.com/736x/ac/20/75/ac207587b88a3bd211738148821c740f.jpg" height="100"/>
+  Hi, I'm <a href="https://github.com/Nadoedatel/" target="_blank">Nikita</a>
 </h1>
 
 # Skilss and Tools
@@ -57,7 +55,7 @@
 
 ### My contacts
 
-<div>
+<div align="center">
   <a href= "https://www.linkedin.com/in/nadoe/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
   <a href= "https://t.me/nnnadoe"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram"/></a>
   <a href= "nikitavorntsov@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40" height="40" alt="gmail"/></a>

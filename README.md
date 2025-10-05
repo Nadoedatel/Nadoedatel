@@ -1,11 +1,17 @@
-<h1 align="center">
-  Hi, I'm <a href="https://github.com/Nadoedatel/" target="_blank">Nikita</a>
-</h1>
+# Hi 👋, I'm <a href="https://github.com/Nadoedatel/" target="_blank">Nikita Vorontsov</a>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Nadoedatel&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Nadoedatel)
 
-## Skills
-### Familiar
+### About me
+
+Hi! My name is Nikita, and I've been studying front-end development for over a year. I'm passionate about becoming a professional front-end developer, and during this time, I've accumulated a multitude of projects in my portfolio.
+
+I'm primarily self-taught, but I've also learned from mentors and even taught programming to others. I've primarily worked on startups and solo projects. I've also participated in team projects for about six months and have experience working with various technologies.
+
+I have a good understanding of modern web technologies, am a fast learner, and am always happy to meet new people. I'm currently looking for new opportunities and would love to chat with you!
+
+## 💻 My Tech Stack:
+
 
 <div>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" height="50">
@@ -22,8 +28,6 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" height="50">
 </div>
 
-###  Can do something, if I need it
-
 <div>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" height="50">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" height="50">
@@ -33,8 +37,6 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" height="50">
 </div>
 
-### Was interested, probably know something
-
 <div>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" height="50">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" height="50">
@@ -43,8 +45,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" height="50">
 </div>
 
-## Tools
-### Favorite
+## 🧑🏻‍💻 My App Stack:
 
 <div>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png" height="50" />
@@ -67,8 +68,4 @@
 </div>
 
 ---
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://www.codewars.com/users/Nadoedatel/badges/large" alt="CodeWars"
-</div>
+<img src="https://www.codewars.com/users/Nadoedatel/badges/large" alt="CodeWars">

@@ -2,7 +2,7 @@
   Hi, I'm <a href="https://github.com/Nadoedatel/" target="_blank">Nikita</a>
 </h1>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Khetag7&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Nadoedatel)]
+[![Profile Views](https://komarev.com/ghpvc/?username=Nadoedatel&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Nadoedatel)
 
 ## Skills
 ### Familiar
